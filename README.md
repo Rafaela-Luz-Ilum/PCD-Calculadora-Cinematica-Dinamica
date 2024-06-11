@@ -1,2 +1,2 @@
 # PCD-Calculadora-Cinematica-Dinamica
-Descrição
+Calculadora de algumas fórmulas dessas áreas
